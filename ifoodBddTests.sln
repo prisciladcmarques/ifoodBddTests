@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifoodBddTests", "ifood\ifoodBddTests.csproj", "{B4200E3E-40AA-497B-9E24-B0BDCEAB42A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F835B0F-E779-41A1-9E13-60F2D867F4BB}"
+	ProjectSection(SolutionItems) = preProject
+		ifood\drivers\chromedriver.exe = ifood\drivers\chromedriver.exe
+		ifood\drivers\geckodriver.exe = ifood\drivers\geckodriver.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
