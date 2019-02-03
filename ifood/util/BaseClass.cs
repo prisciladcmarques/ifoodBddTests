@@ -4,7 +4,7 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
 using System.Configuration;
 
-namespace projectcit.Utils
+namespace ifood.util
 {
     public class BaseClass
     {
